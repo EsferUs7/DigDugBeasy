@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 2462fea79f0809549a0dd8bd743dd2d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8008979944749870962
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_0"
+  - first:
+      213: -1020629207625715106
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_1"
+  - first:
+      213: -548156527534205216
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_2"
+  - first:
+      213: -990480927324870660
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_3"
+  - first:
+      213: 443632927087629192
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_4"
+  - first:
+      213: 8676247821193725035
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_5"
+  - first:
+      213: -9099137983346516586
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_6"
+  - first:
+      213: 1273938780381915859
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_7"
+  - first:
+      213: 3812955716619062381
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_8"
+  - first:
+      213: -6349257104636526260
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_9"
+  - first:
+      213: -8795783152432581578
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_10"
+  - first:
+      213: -4058242688444174347
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_11"
+  - first:
+      213: 6652501717092567851
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_12"
+  - first:
+      213: 6536761248174833635
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_13"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Idle
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 256
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f2b0c83dc952f60800000000000000
+      internalID: 8008979944749870962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooka_Normal
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 263
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52b418a42ff5d1f0800000000000000
+      internalID: -1020629207625715106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fygar_Normal
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 251
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6130fda8e8468f0800000000000000
+      internalID: -548156527534205216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_3"
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 310
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7600a28da1142f0800000000000000
+      internalID: -990480927324870660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 126
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88399b5fbc9182600800000000000000
+      internalID: 443632927087629192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 131
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b644285bc69386870800000000000000
+      internalID: 8676247821193725035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indestructible
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 132
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ddd54a63e59b180800000000000000
+      internalID: -9099137983346516586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 161
+        width: 105
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da22463290fda110800000000000000
+      internalID: 1273938780381915859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_8"
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 127
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ccf59b5075ae430800000000000000
+      internalID: 3812955716619062381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_9"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 18
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41c38a9d48e2e7a0800000000000000
+      internalID: -6349257104636526260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Walk
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 18
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634f3ed23d91fe580800000000000000
+      internalID: -8795783152432581578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooka_Pumped
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 18
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff65feb6c93ea7c0800000000000000
+      internalID: -4058242688444174347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fygar_Fire
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 9
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b8af2b01f625c50800000000000000
+      internalID: 6652501717092567851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_13"
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 44
+        width: 93
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3effff2d8bd37ba50800000000000000
+      internalID: 6536761248174833635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d213b928518faa447a478da3fd8c5e8a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire: 1273938780381915859
+      Fygar_Fire: 6652501717092567851
+      Fygar_Normal: -548156527534205216
+      Ground: 443632927087629192
+      Indestructible: -9099137983346516586
+      Player_Idle: 8008979944749870962
+      Player_Walk: -8795783152432581578
+      Pooka_Normal: -1020629207625715106
+      Pooka_Pumped: -4058242688444174347
+      Rock: 8676247821193725035
+      "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_13": 6536761248174833635
+      "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_3": -990480927324870660
+      "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_8": 3812955716619062381
+      "\u0421\u043F\u0440\u0430\u0439\u0442\u0438-removebg-preview_9": -6349257104636526260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

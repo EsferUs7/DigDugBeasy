@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Indestructible
+  - Enemy
+  - Rock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - 
+  - Player
+  - Enemies
+  - Rock
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 668704087
+    locked: 0
+  - name: Ground
+    uniqueID: 2490888815
+    locked: 0
+  - name: Player
+    uniqueID: 3255482821
+    locked: 0
+  - name: Enemies
+    uniqueID: 3356993893
+    locked: 0
+  - name: UI
+    uniqueID: 2363285435
+    locked: 0
+  m_RenderingLayers:
+  - Default
